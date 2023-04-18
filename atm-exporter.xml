@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10001</projectId>
+    <projectKey>SHR</projectKey>
+    <exportDate>2023-04-18 11:11:01 UTC</exportDate>
+    <folders>
+        <folder fullPath="HomePage" index="2"/>
+        <folder fullPath="TM" index="3"/>
+        <folder fullPath="login" index="1"/>
+    </folders>
+    <testCases>
+        <testCase id="84961671" key="SHR-T4">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Shirish</createdBy>
+            <createdOn>2023-04-15 08:38:43 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[username]]></name>
+            <owner>712020:5726a890-1531-444d-aaee-fe083b5dd3d2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[]]></description>
+                        <expectedResult><![CDATA[]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="85074201" key="SHR-T8">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Shirish</createdBy>
+            <createdOn>2023-04-18 10:42:35 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Addmanager]]></name>
+            <owner>712020:5726a890-1531-444d-aaee-fe083b5dd3d2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[]]></description>
+                        <expectedResult><![CDATA[]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="84941960" key="SHR-T1">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Shirish</createdBy>
+            <createdOn>2023-04-14 12:37:36 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Login]]></name>
+            <owner>712020:5726a890-1531-444d-aaee-fe083b5dd3d2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[]]></description>
+                        <expectedResult><![CDATA[]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="84942540" key="SHR-T2">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Shirish</createdBy>
+            <createdOn>2023-04-14 12:49:07 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Logout]]></name>
+            <owner>712020:5726a890-1531-444d-aaee-fe083b5dd3d2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[]]></description>
+                        <expectedResult><![CDATA[]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="84961668" key="SHR-T3">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Shirish</createdBy>
+            <createdOn>2023-04-15 08:35:22 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[login]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Login page title]]></name>
+            <owner>712020:5726a890-1531-444d-aaee-fe083b5dd3d2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[]]></description>
+                        <expectedResult><![CDATA[]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="85073257" key="SHR-T5">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Shirish</createdBy>
+            <createdOn>2023-04-18 10:24:25 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[HomePage]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Logo]]></name>
+            <owner>712020:5726a890-1531-444d-aaee-fe083b5dd3d2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[]]></description>
+                        <expectedResult><![CDATA[]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="85073296" key="SHR-T6">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Shirish</createdBy>
+            <createdOn>2023-04-18 10:25:25 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[HomePage]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Title]]></name>
+            <owner>712020:5726a890-1531-444d-aaee-fe083b5dd3d2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[]]></description>
+                        <expectedResult><![CDATA[]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="85074144" key="SHR-T7">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Shirish</createdBy>
+            <createdOn>2023-04-18 10:41:30 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[TM]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[ViewManager]]></name>
+            <owner>712020:5726a890-1531-444d-aaee-fe083b5dd3d2</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[]]></description>
+                        <expectedResult><![CDATA[]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>
